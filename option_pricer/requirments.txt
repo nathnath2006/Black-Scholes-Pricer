@@ -1,0 +1,8 @@
+Run on Window 11 using VsCode
+
+-- Packages -- 
+
+numpy : 1.26.4
+scipy.stats : 1.13.1
+streamlit : 1.51.0
+matlpotlib : 3.10.0
